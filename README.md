@@ -23,6 +23,14 @@ Los sockets permiten implementar una arquitectura cliente-servidor. La comunicac
 
 Un socket es un proceso o hilo existente en la máquina cliente y en la máquina servidora, que sirve en última instancia para que el programa servidor y el cliente lean y escriban la información. Esta información será la transmitida por las diferentes capas de red.
 
+### Desarrollo
+![captura](https://user-images.githubusercontent.com/13088276/38513769-db624940-3bf4-11e8-9780-abbdd96c331d.PNG)
 
+### Prueba
 
 ![as](https://user-images.githubusercontent.com/13088276/38485415-40d31c88-3b9f-11e8-9012-c703d19bacc8.PNG)
+
+
+### Conclusión
+
+Actualmente el desarrollo de sistemas en tiempo real, se basan en este concepto de la intercomunicación de procesos.
